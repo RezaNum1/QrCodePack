@@ -20,12 +20,7 @@ class QrCodeController
     public function index()
     {
 
-
-
-
-
-
-        //        $lastName = $data->getNama();
+//        $lastName = $data->getNama();
 //        $additional = '';
 //        $prefix = '';
 //        $suffix = '';
@@ -39,8 +34,6 @@ class QrCodeController
 //        $text = "Name:".$data->getNama()."\n Jabatan: ". $data->getJabatan()."\n Perusahaan: ".$data->getPerusahaan()."\n No Telepon"
 //            .$data->getNoTelepon()."\n Email: ".$data->getEmail()."\n No Telp Perusahaan: ".$data->getNoTeleponPerusahaan()."\n Email Perusahaan: "
 //            .$data->getEmailPerusahaan();
-
-
 
 //        return $this->render('qr_code/index.html.twig', [
 //            'qrCode' => $response,
